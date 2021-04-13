@@ -1,0 +1,13 @@
+C:\Domi programok\6.házi\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Domi programok\6.házi\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Domi programok\6.házi\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Domi programok\6.házi\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Domi programok\6.házi\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Domi programok\6.házi\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.csprojAssemblyReference.cache
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Domi programok\6.házi\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

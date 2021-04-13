@@ -1,0 +1,4 @@
+C:\Domi programok\6.házi\BookTests\obj\Debug\netcoreapp3.1\BookTests.csprojAssemblyReference.cache
+C:\Domi programok\6.házi\BookTests\obj\Debug\netcoreapp3.1\BookTests.AssemblyInfoInputs.cache
+C:\Domi programok\6.házi\BookTests\obj\Debug\netcoreapp3.1\BookTests.AssemblyInfo.cs
+C:\Domi programok\6.házi\BookTests\obj\Debug\netcoreapp3.1\BookTests.csproj.CoreCompileInputs.cache
